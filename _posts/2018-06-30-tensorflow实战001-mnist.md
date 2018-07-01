@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tensorflow实战
+title: tensorflow实战001之mnist
 date: 2018-06-30
 categories: 深度学习
 tags: [tensorflow, 深度学习]
